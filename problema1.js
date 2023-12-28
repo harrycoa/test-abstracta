@@ -37,3 +37,7 @@ function sumaConRecursion(array, index = 0) {
 
 
 console.log(suma(numeros));
+console.log(sumaConWhile(numeros));
+console.log(sumaConRecursion(numeros));
+
+// Para correr el script yo utilizo la pagina: https://www.programiz.com/javascript/online-compiler/
